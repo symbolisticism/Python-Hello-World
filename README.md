@@ -6,9 +6,9 @@ This repository contains a simple Hello World program written in Python.
 
 I wanted to do this program in Python because I don't know Python and I want to learn it. It will be the start of many more.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+# YouTube Demonstration of Code
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=LFSxHYg4_4E)
 
 # Development Environment
 
@@ -18,6 +18,5 @@ I used Python for this program.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/taking-input-in-python/)
+* [W3Schools](https://www.w3schools.com/python/ref_func_print.asp)
