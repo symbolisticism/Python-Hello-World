@@ -20,3 +20,6 @@ I used Python for this program.
 
 * [Geeks for Geeks](https://www.geeksforgeeks.org/taking-input-in-python/)
 * [W3Schools](https://www.w3schools.com/python/ref_func_print.asp)
+
+# Hours Spent
+3 hours were spent on this project.
