@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I am a BYU-I student majoring in Software Engineering. I am interested in databases and machine learning. I would like to be a part of a project that makes a lasting impact on the world. With how much data there is available to use, the possibilities are endless.
 
-{Provide a description of your software}
+This repository contains a simple Hello World program written in Python.
 
-{Describe your purpose for creating this software.}
+I wanted to do this program in Python because I don't know Python and I want to learn it. It will be the start of many more.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,9 +12,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code to write this program. I have a Python extension that helps with syntax. I also had to do some research on how to write a Hello World program in Python.
 
-{Describe the programming language that you used}
+I used Python for this program.
 
 # Useful Websites
 
